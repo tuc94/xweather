@@ -36,8 +36,8 @@ export default class Map extends React.Component<{}, State> {
         this.setState(prevState => ({
             viewport: {
                 ...prevState.viewport,
-                height: window.innerHeight,
-                width: window.innerWidth,
+                height: (window.innerHeight * 0.5),
+                width: (window.innerWidth * 0.5),
             },
         }));
     };

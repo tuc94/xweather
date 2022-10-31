@@ -1,7 +1,7 @@
 import * as React from 'react';
 import ReactMapGL, { NavigationControl } from 'react-map-gl';
 
-const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN || '';
+const MAPBOX_TOKEN = 'pk.eyJ1IjoidGJhbGRlY2NoaSIsImEiOiJjazdiNmYxa2swMTJzM2Vsa2FkZXBxNXVtIn0.siAnE1_GsbXpr7k80f2oCg' || '';
 const initialState = {
     viewport: {
         height: 400,

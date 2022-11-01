@@ -1,0 +1,20 @@
+ [
+     {
+     "city": "Helsinki",
+     "lat": "60.1676",
+     "lon": "24.9421",
+     "temp": "7.0"
+     },
+     {
+     "city": "Another city",
+     "lat": "...",
+     "lon": "...",
+     "temp": "0.0"
+     },
+     {
+     "city": "Again another city",
+     "lat": "...",
+     "lon": "...",
+     "temp": "-7.0"
+     }
+ ]
